@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.2.1_6669fc89969611379ee14f9c8dd24a2c6e43b24c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.2.1_0278198c6eda56a3a82e5f7b8ad64022f76fd962/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_49edb09031d07bb20c5e29ce67d1ece1c13d2e5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.2.1_525b938302310aeb5e22e7983defdf4cae94b920/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_2605eb4c4d0f4fcab2d039c12a34db1b3b2406b7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.2.1_ee1e1f47a086c972006d5bed1cbee61dbcd5ce95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.2.1_6f3976782706969881d11bd68df222ef9a62991a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_76eeac9658cd2788e3efc29cf9797eef3ede564a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_d2764f0c646aa4ef62c90b4ff7740ad593421bd5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_4036a1a1b6abacf07a455ba26055d987b4b69fb5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.2.1_7501e4668d57b0b7541e625a3b3ecd4675772933/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.1_7e6f99ac5d14eccfcc33109fc33fd330fb219e57/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.2.1_a67c2aa3e7678041e3dad42e2115d4055eccdc67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.2.1_40d93cb7a83c226d156c6ef54728eb18bed41bb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_dd0b0643ded7f23c2e56144859e30400ae85fefc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.2.1_49e9640f665df60cf6c288aa40b28883a0d8b936/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.2.1_94fc9f8a954e44bd1374b5b783615c94bdc929f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="737d3e78c7682bc7601b3db9658d56ca3d9d7572">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_19e17fd57de492b98399856820d832da2a5e5009/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.1_0776e97c07bc512b092344eb959ea87efd713209/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.1_032c3c3f7e1f027706f138bd2c98d64706a8d351/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.1_6bd638aaf186bced4d337f4a6d23e781bf4ba6e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_0cd5594e7177c2905fc185168f2f9afb4ce2020c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_70ab307cce5ca62207ef1349ca82cb538b31fa8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_b52455b4c2a624039bc354ebca53d89ce1466542/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.2.1_55a6aef9cd12b163fbb2a4ec3be007d9083a5537/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_42cd8662ec5afaaf61e1b830c31b02558f167f0f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5763704275f31a2852c84bb47c6bf58c3bb002ee">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_697bd1c4042334e310d4d549076506157130cd68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.2.1_660a5642519089f64250ed76f2574ffb51d6661a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.2.1_96e0acebb10b3e667f07bb7af75971c2de86e0b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_c1f43d7ea35a2d6614f5501f0b94b2cdda4104e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.2.1_6284ff8b8a81103447e8d10be95c5d3ea3082471/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.2.1_c2b25cd5012b20b0b309bac083ddfc704f15e85a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.1_1e9e65e6e9df275061afefb6beed8931145363a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.2.1_b14d7f6dfbf2f69dc76afe5fda0ae78bd04e549e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.2.1_6ef9993e952cd80686891fed3b8b5748ef9bfde8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.2.1_286ce183f71c732357e5ea2826ad035e1e6fb278/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.1_d5164b73d93c4cbbb6af85d309b8362f2137503d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.2.1_0ac4f4247c8cd3fc70403785ba156bbb1260f39c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_2656440dcee18ce8a71e7c1c9c009d5c3646520f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.1_d53b2e529b8ffb1c9f89278f55944ae541406b73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_ec146db3bea4e370fcbd9f306e6d652d9f5ff38f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.2.1_ff3e75045be52b2fe5f98ad7d79b40a890131b89/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.2.1_ca43af89187d4b36bcc44c7c89a5ac427ca8a013/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.2.1_342be67208e0c8fbcb7b1f4af47b800fd65608a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.2.1_1381ce2bade061545498213c59af297fe4d646cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.2.1_1c2b4a3f7574f5835d89d8a394a37c355a7e9986/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.2.1_618ba2bd52c581d43696703945b649a387613012/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_888d95c25ccf62be75890a28cde01a65d1d94f18/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.2.1_9e3cf58b31255405407a06a249d82dfc274ea25e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_4e20b62d47d6fb618cd089b162d6d7174627aa59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_bf2f3774ce22dea02bb5bb0173157b82cd69f643/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.2.1_c38f7e89b3787a454821c9bc9cf3eced22820925/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.1_d3054fd605791dea85bf1d2d909d670ab049f222/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.2.1_e3718da9d6eb61d469f41d86ea59656f91636efd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.1_1649108ddf39c8948d6052308022e0c0a23158cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_680d7d79f808d2e1c045f29d12e55e532f350831/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.2.1_fa7daa7c7805a975f3925c64d88a6d0e48609ed3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/juliettecoia/Desktop/essai-carte/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_57d7cf94f3e5d7f118b3c35a6d70f8a3bc1b1fbd/classes.dex" />
+    </item>
+
+</items>
