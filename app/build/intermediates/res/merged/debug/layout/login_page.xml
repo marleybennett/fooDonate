@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="500dp"
+    android:paddingTop="20dp"
+    android:weightSum="1">
+
+    <!--<TextView
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Login"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center"
+        android:layout_weight="0.13"
+        android:textSize="70dp" />-->
+
+    <TextView
+        android:layout_width="147dp"
+        android:layout_height="45dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Login"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="center"
+        android:textSize="45dp"
+        android:layout_weight="0.12"
+        android:textColor="#020202" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/textView"
+        android:layout_below="@+id/btnLogin"
+        android:layout_centerHorizontal="true" />
+
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="Email Address"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:id="@+id/editEmail"
+        android:layout_alignParentStart="true"
+        android:textSize="35dp" />
+
+    <ViewAnimator
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/viewAnimator"
+        android:layout_below="@+id/editEmail"
+         />
+
+    <EditText
+        android:layout_width="257dp"
+        android:layout_height="51dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:id="@+id/editPass"
+
+        android:layout_alignParentStart="true"
+        android:textSize="35dp"
+        android:layout_weight="0.09" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_below="@+id/textView"
+        android:layout_toEndOf="@+id/imageView" />
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:text="Enter"
+        android:id="@+id/btnLogin"
+        android:onClick="ShowGreetings"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

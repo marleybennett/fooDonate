@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/logo.png",
+        "source": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/src/main/res/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/donate_logo.png",
+        "source": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/src/main/res/mipmap-hdpi/donate_logo.png"
+    },
+    {
+        "merged": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/food_logo.png",
+        "source": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/src/main/res/mipmap-hdpi/food_logo.png"
+    },
+    {
+        "merged": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/login_title.png",
+        "source": "/Users/marleybennett/Downloads/essai-carte-sans-map 3/app/src/main/res/mipmap-hdpi/login_title.png"
+    }
+]

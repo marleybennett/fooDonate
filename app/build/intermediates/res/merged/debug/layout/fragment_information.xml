@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InformationFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Information"
+        android:id="@+id/textView"
+        android:textSize="30dp"
+        android:textColor="@color/Black"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginLeft="10dp"
+       android:text="Walking down the streets of any sized city, one is bound to see hungry, homeless people, begging for help.  Often times we are hesitant to offer our spare change for fear that they won't spend it on food. This application aims to remedy this problem by providing an easier way to connect food banks not only with individuals, but also with restaurants."
+       android:id="@+id/textView5"
+       android:textSize="25dp"
+       android:layout_below="@+id/textView" />
+
+    <ExpandableListView
+        android:id="@+id/expList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView5"
+        android:layout_marginLeft="10dp">
+    </ExpandableListView>
+
+
+
+</RelativeLayout>
